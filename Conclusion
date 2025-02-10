@@ -1,0 +1,8 @@
+Conclusion:
+The model demonstrates high predictive accuracy, with an accuracy score of 97.27%,
+indicating that it successfully classifies or predicts the target values in approximately 97% of cases. 
+This suggests that the model generalizes well to unseen data and performs robustly.
+
+However, the RMSE value of 97.27 should be interpreted in context. 
+If the target variable has a wide range, an RMSE of 97.27 might indicate acceptable performance. However, for smaller ranges, 
+the RMSE value could signal a need for further tuning or improvement, as the model's predictions might deviate by that amount from the true values.
